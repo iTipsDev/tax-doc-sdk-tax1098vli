@@ -1,0 +1,58 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "75-179-8213",
+  "taxFormId" : "8035183",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0932761",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Rogahn Inc"
+    },
+    "address" : {
+      "line1" : "88505 Torp Island",
+      "city" : "West Otelialand",
+      "region" : "MS",
+      "postalCode" : "31679",
+      "unitType" : "Apt",
+      "unitNumber" : "607"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "shawn.swaniawski@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-43-5391",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Keven",
+      "middle" : "Hazel",
+      "last" : "O'Connell"
+    },
+    "businessName" : {
+      "name1" : "Larson, Swift and Blick"
+    },
+    "address" : {
+      "line1" : "068 Rashad Ramp",
+      "city" : "East Noble",
+      "region" : "MD",
+      "postalCode" : "79324",
+      "unitType" : "Apt",
+      "unitNumber" : "291"
+    },
+    "email" : "minh.walter@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "875-23362-1",
+  "vehicleLoanInterest" : 200,
+  "carYear" : 300,
+  "make" : "make",
+  "model" : "model",
+  "vin" : "vin",
+  "originationDate" : "2026-07-11",
+  "acquisitionDate" : "2026-09-26",
+  "outstandingPrincipal" : 400,
+  "interestRefund" : 500
+}

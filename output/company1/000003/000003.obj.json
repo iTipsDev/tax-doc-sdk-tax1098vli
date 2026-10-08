@@ -1,0 +1,58 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "18-650-7104",
+  "taxFormId" : "2865618",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0932761",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Rogahn Inc"
+    },
+    "address" : {
+      "line1" : "88505 Torp Island",
+      "city" : "West Otelialand",
+      "region" : "MS",
+      "postalCode" : "31679",
+      "unitType" : "Apt",
+      "unitNumber" : "607"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "shawn.swaniawski@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-77-2518",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Dalton",
+      "middle" : "Blair",
+      "last" : "Jenkins"
+    },
+    "businessName" : {
+      "name1" : "Balistreri-Champlin"
+    },
+    "address" : {
+      "line1" : "795 Breitenberg Track",
+      "city" : "Homenickborough",
+      "region" : "AK",
+      "postalCode" : "05732",
+      "unitType" : "Apt",
+      "unitNumber" : "732"
+    },
+    "email" : "mark.tromp@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "898-32295-4",
+  "vehicleLoanInterest" : 200,
+  "carYear" : 300,
+  "make" : "make",
+  "model" : "model",
+  "vin" : "vin",
+  "originationDate" : "2026-09-24",
+  "acquisitionDate" : "2026-07-04",
+  "outstandingPrincipal" : 400,
+  "interestRefund" : 500
+}

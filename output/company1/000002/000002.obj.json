@@ -1,0 +1,58 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "36-319-4292",
+  "taxFormId" : "3198720",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0932761",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Rogahn Inc"
+    },
+    "address" : {
+      "line1" : "88505 Torp Island",
+      "city" : "West Otelialand",
+      "region" : "MS",
+      "postalCode" : "31679",
+      "unitType" : "Apt",
+      "unitNumber" : "607"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "shawn.swaniawski@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-80-2091",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Hector",
+      "middle" : "Viva",
+      "last" : "Becker"
+    },
+    "businessName" : {
+      "name1" : "Wyman-Dach"
+    },
+    "address" : {
+      "line1" : "67744 Langosh Greens",
+      "city" : "East Allanside",
+      "region" : "TX",
+      "postalCode" : "00587",
+      "unitType" : "Apt",
+      "unitNumber" : "838"
+    },
+    "email" : "lucius.nienow@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "587-18168-9",
+  "vehicleLoanInterest" : 200,
+  "carYear" : 300,
+  "make" : "make",
+  "model" : "model",
+  "vin" : "vin",
+  "originationDate" : "2026-05-07",
+  "acquisitionDate" : "2026-04-15",
+  "outstandingPrincipal" : 400,
+  "interestRefund" : 500
+}
